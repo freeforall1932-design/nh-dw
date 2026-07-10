@@ -1,1 +1,0 @@
-function getHtml(t){let e="",n=t.firstChild;for(;n;)e+=n.outerHTML,n=n.nextSibling;return e}chrome.runtime.sendMessage({action:"getHtml",source:getHtml(document)});

@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "NHentai Downloader",
-  "version": "2.2.0",
+  "name": "NH DW",
+  "version": "3.0.0",
   "description": "A chrome extension to download doujinshi from NHentai - Updated for API v2",
   "icons": {
     "64": "Icon.png",
